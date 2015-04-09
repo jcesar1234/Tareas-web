@@ -1,0 +1,67 @@
+*{
+	margin: 2px;
+	padding: 2px;
+
+}
+header{
+	width: auto;
+	height: 80px;
+	background-color: red;
+}
+header h1{
+	color: black;
+	text-align: center;
+	font-family: arial;
+
+}
+nav{
+	background-color: green;
+	width: auto;
+	padding-bottom: 1px;
+	height: 40px;
+}
+nav h3{
+	color: black;
+	text-align: center;
+	font-family: arial;
+}
+
+.general{
+	width: auto;
+
+}
+
+.contenido, aside{
+	display: inline-block;
+	height: 400px;
+	
+	margin-bottom: 1px;
+	
+}
+.contenido{
+	width: 80%;
+	background-color: blue;
+
+}
+.contenido h3{
+	width: auto;
+	text-align: center;
+	font-size: 12;
+}
+aside{
+	width: auto;
+	background-color: orange;
+}
+aside h3{
+	font-size: 12;
+	text-align: center;
+
+}
+footer{
+	background-color: pink;
+}
+footer h3{
+	text-align: center;
+	font-size: 8;
+
+}

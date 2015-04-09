@@ -1,0 +1,47 @@
+*{
+	margin: 1px;
+	padding: 2px;
+
+}
+header{
+	border: solid 1px;
+	border-color: red;
+	text-align: center;
+	width: auto;
+	height: 50px ;
+	font-family: arial;
+
+}
+nav{
+	border: solid 1px;
+	border-color: blue;
+	text-align: left;
+	width: auto;
+	height: 20px;
+	font-family: arial;
+
+}
+.general, aside, section{
+	border: solid 1px;
+	border-color: none;
+	text-align: center;
+	width: auto;
+	height: 250px;
+	font-family: arial;
+}
+
+aside{
+	border-color: green;
+}
+section{
+	border-color: yellow;
+}
+
+footer{
+	border: solid 1px;
+	border-color: brown;
+	width: auto;
+	height: 20px;
+	text-align: center;
+	font-family: arial;
+}
